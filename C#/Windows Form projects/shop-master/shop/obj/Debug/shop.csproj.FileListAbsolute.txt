@@ -1,0 +1,10 @@
+c:\users\arash\documents\visual studio 2012\Projects\shop\shop\bin\Debug\shop.exe.config
+c:\users\arash\documents\visual studio 2012\Projects\shop\shop\bin\Debug\shop.exe
+c:\users\arash\documents\visual studio 2012\Projects\shop\shop\bin\Debug\shop.pdb
+c:\users\arash\documents\visual studio 2012\Projects\shop\shop\obj\Debug\shop.csprojResolveAssemblyReference.cache
+c:\users\arash\documents\visual studio 2012\Projects\shop\shop\obj\Debug\shop.Form1.resources
+c:\users\arash\documents\visual studio 2012\Projects\shop\shop\obj\Debug\shop.Properties.Resources.resources
+c:\users\arash\documents\visual studio 2012\Projects\shop\shop\obj\Debug\shop.csproj.GenerateResource.Cache
+c:\users\arash\documents\visual studio 2012\Projects\shop\shop\obj\Debug\shop.exe
+c:\users\arash\documents\visual studio 2012\Projects\shop\shop\obj\Debug\shop.pdb
+c:\users\arash\documents\visual studio 2012\Projects\shop\shop\bin\Debug\iranShop1.mdb
