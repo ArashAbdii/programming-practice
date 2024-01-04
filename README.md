@@ -4,3 +4,5 @@ Languages I work with them
 Python 🔮
 
 C# 🏆
+
+JavaScript 💪
